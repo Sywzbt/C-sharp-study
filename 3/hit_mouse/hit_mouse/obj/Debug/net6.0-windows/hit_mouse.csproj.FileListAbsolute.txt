@@ -1,0 +1,17 @@
+E:\Coding\C#\3\hit_mouse\hit_mouse\bin\Debug\net6.0-windows\hit_mouse.exe
+E:\Coding\C#\3\hit_mouse\hit_mouse\bin\Debug\net6.0-windows\hit_mouse.deps.json
+E:\Coding\C#\3\hit_mouse\hit_mouse\bin\Debug\net6.0-windows\hit_mouse.runtimeconfig.json
+E:\Coding\C#\3\hit_mouse\hit_mouse\bin\Debug\net6.0-windows\hit_mouse.dll
+E:\Coding\C#\3\hit_mouse\hit_mouse\bin\Debug\net6.0-windows\hit_mouse.pdb
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.csproj.AssemblyReference.cache
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.Form1.resources
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.csproj.GenerateResource.cache
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.AssemblyInfoInputs.cache
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.AssemblyInfo.cs
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.csproj.CoreCompileInputs.cache
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.dll
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\refint\hit_mouse.dll
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.pdb
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\hit_mouse.genruntimeconfig.cache
+E:\Coding\C#\3\hit_mouse\hit_mouse\obj\Debug\net6.0-windows\ref\hit_mouse.dll

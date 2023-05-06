@@ -1,0 +1,15 @@
+E:\Coding\C#\5\Interface\Interface\bin\Debug\Interface.exe.config
+E:\Coding\C#\5\Interface\Interface\bin\Debug\Interface.exe
+E:\Coding\C#\5\Interface\Interface\bin\Debug\Interface.pdb
+E:\Coding\C#\5\Interface\Interface\bin\Debug\Guna.UI2.dll
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.Form1.resources
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.csproj.CopyComplete
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.exe
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.pdb
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.CostomerControl.btnProduct.resources
+E:\Coding\C#\5\Interface\Interface\obj\Debug\Interface.CostomerControl.CartItem.resources
